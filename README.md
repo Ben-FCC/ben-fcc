@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Feng-Chun Ben Chou (Ben-FCC)
 
 ## Bio
-🎓 I’m currently a PhD student in Psychology at National Taiwan University, working with Prof. Andy Chen at [CHENLab](https://www.chenlaboratory.com/).
+🎓 I’m currently a PhD student in Psychology at National Taiwan University, working with Prof. [Andy Chen](https://scholar.google.com/citations?user=wXNCX4EAAAAJ&hl=en) at [CHENLab](https://www.chenlaboratory.com/).
 
 🧠 My research explores the science of **Interacting Minds**, leveraging tools like fMRI, social network analysis, and nonverbal behavior modeling under naturalistic paradigms. I aim to unravel the emergent properties of human social interaction using computational and multimodal methods.
 
@@ -11,9 +11,12 @@
 - Emotion dynamics, shared experience, and trust
 
 📚 Recent highlights:
+- 🏅 Awarded the **Academia Sinica Fellowship for Elite Ph.D. in Humanities and Social Sciences** (2024–2028)
+- 💰 Received multiple scholarships, including:
+  - **NTU College of Science Doctoral Scholarship** (2024–2025)
+  - **NTU Doctoral Scholarship** (2023–2025)
 - 🏆 Award Talk @ TPA 2024: *From divergent opinions to aligned impressions*
 - 📣 Datablitz @ SANS 2024: *Shared experiences matter*
-- 🧑‍🏫 TA for General & Personality Psychology, NTU (2022–2025)
 
 🧩 Technical stack:
 - **Programming**: Python, R, MATLAB, JavaScript, C/C++, Bash
